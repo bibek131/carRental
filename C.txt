@@ -1,0 +1,6 @@
+Specifications:
+
+Fuel Type	Petrol
+Engine Displacement	750 cc
+Power	45 bhp @ 6500 RPM
+Torque	60 Nm @ 5000 RPM

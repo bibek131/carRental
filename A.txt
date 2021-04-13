@@ -1,0 +1,6 @@
+Specifications:
+
+Fuel Type	Petrol
+Engine Displacement	624 cc
+Power	37 bhp @ 5500 RPM
+Torque	51 Nm @ 4000 RPM
